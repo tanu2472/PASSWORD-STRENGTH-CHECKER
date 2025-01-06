@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(backg.jpg);
+    background-color: #81b0cc;
+    margin: 0;
+  }
+  
+  .container {
+    background: rgb(83, 195, 214);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  input[type="password"] {
+    padding: 10px;
+    margin-top: 10px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  #strengthMessage {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
