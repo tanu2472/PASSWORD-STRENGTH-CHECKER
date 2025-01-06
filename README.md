@@ -15,3 +15,6 @@
 
 
 #  USED LANG : HTML,CSS & JAVASCRIPT 
+# OUTPUT OF THE TASK 
+
+![OUTPUT](https://github.com/user-attachments/assets/dfd39d21-c206-4642-afd0-06ea49f947a9)
